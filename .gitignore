@@ -1,0 +1,19 @@
+.DS_Store
+node_modules/
+gshop/node_modules/
+gshop-client/node_modules/
+gshop-client_final/node_modules/
+gshop-client_pages/node_modules/
+gshop-server_final/node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
